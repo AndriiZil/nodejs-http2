@@ -1,2 +1,4 @@
 # IDE
 .idea
+cert.pem
+key.pem
